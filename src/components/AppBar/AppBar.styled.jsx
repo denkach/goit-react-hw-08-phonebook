@@ -41,5 +41,6 @@ export const Item = styled.li`
 
 export const Nav = styled.ul`
   display: flex;
+  justify-content: flex-end;
   gap: 12px;
 `;
